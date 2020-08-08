@@ -1,0 +1,18 @@
+wants:
+    - name: Massacre Girl
+    - name: Nicol Bolas, Dragon God
+    - name: Sea-Dasher Octopus
+      showcase: true
+    - name: Primal Empathy
+      foil: true
+    - name: Savai Triome
+    - name: Phoenix of Ash
+    - name: Tamiyo, Collector of Tales
+    - name: Finale of Revelation 
+    - name: Lotus Field
+      quantity: 2
+    - name: Veil of Summer
+    - name: Stonecoil Serpent
+    - name: Deceiver of Form
+    - name: Ulvenwald Hydra
+    - name: Aryel, Knight of Windgrace
